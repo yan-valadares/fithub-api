@@ -10,7 +10,7 @@ let checkInsRepository: InMemoryCheckInsRepository
 let gymsRepository: InMemoryGymsRepository
 let sut: CheckInUseCase
 
-describe('Register Use Case', () => {
+describe('Check-in Use Case', () => {
   beforeEach(async () => {
     // In memory test database Pattern
     checkInsRepository = new InMemoryCheckInsRepository()
