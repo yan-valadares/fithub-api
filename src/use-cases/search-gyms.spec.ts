@@ -5,7 +5,7 @@ import { SearchGymUseCase } from './search-gyms'
 let gymsRepository: InMemoryGymsRepository
 let sut: SearchGymUseCase
 
-describe('Fetch User Check-in History Case', () => {
+describe('Fetch User Check-in History Use Case', () => {
   beforeEach(async () => {
     // In memory test database Pattern
     gymsRepository = new InMemoryGymsRepository()
