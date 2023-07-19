@@ -31,4 +31,6 @@ GymPass style app
 - [x] Todas listas de dados precisam estar paginadas com 20 itens por páginas;
 - [x] O usuário deve ser identificado por um JWT (JSON  Web Token);
 
+##
+
 - Feito com base em aulas da Rocketseat [🚀](https://www.rocketseat.com.br)
